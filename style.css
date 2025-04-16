@@ -1,0 +1,19 @@
+nav{
+    
+    padding: 20px;
+    text-align:center;
+
+}
+nav a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding:5px;
+    border-radius: 10px;
+    margin:20px;
+    border:2px solid blue;
+}
+.first{
+    background-color: white;
+    color:blue;
+}
